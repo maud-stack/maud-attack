@@ -1,7 +1,7 @@
 $imageUrls = @(
-    "https://i.imgur.com/j79rMvu.png",
-    "https://i.imgur.com/HWSVMsk.png",
-    "https://i.imgur.com/a3lDpMq.png"
+    "https://i.imgur.com/EBxD6FK.png",
+    "https://i.imgur.com/LT3qlRS.png",
+    "https://i.imgur.com/EnmQMbo.png"
 )
 
 # Get the current wallpaper path and settings
