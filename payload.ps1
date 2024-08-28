@@ -1,6 +1,6 @@
 $imageUrls = @(
     "https://i.imgur.com/EBxD6FK.png",
-    "https://i.imgur.com/LT3qlRS.png",
+    "https://i.imgur.com/t1mBlY9.png",
     "https://i.imgur.com/EnmQMbo.png"
 )
 
